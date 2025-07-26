@@ -26,6 +26,7 @@ gerçek zamanlı yüz tanıma tabanlı kimlik doğrulama uygulamasıdır.
 - face_db_manager.py      # MongoDB işlemleri (kayıt, arama, loglama)
 - faceDataBase.py         # Dosya tabanlı yüz veri yönetimi (opsiyonel)
 - secureface_app.py       # Streamlit arayüzü ve uygulama akışı
+- face_delete_user.py     # Admin paneliyle kullanıcı verisi silme
 - README.md               # Proje açıklaması
 
 ## 🛠 Teknolojiler
