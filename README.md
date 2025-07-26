@@ -22,11 +22,11 @@ gerçek zamanlı yüz tanıma tabanlı kimlik doğrulama uygulamasıdır.
 
 ## 📁 Dosya Yapısı
 
-├── detected_faces.py       # Yüz algılama ve embedding çıkarma
-├── face_db_manager.py      # MongoDB işlemleri (kayıt, arama, loglama)
-├── faceDataBase.py         # Dosya tabanlı yüz veri yönetimi (opsiyonel)
-├── secureface_app.py       # Streamlit arayüzü ve uygulama akışı
-└── README.md               # Proje açıklaması
+├─ detected_faces.py       # Yüz algılama ve embedding çıkarma
+├─ face_db_manager.py      # MongoDB işlemleri (kayıt, arama, loglama)
+├─ faceDataBase.py         # Dosya tabanlı yüz veri yönetimi (opsiyonel)
+├─ secureface_app.py       # Streamlit arayüzü ve uygulama akışı
+└─ README.md               # Proje açıklaması
 
 ## 🛠 Teknolojiler
 
